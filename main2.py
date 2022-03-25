@@ -1,0 +1,1 @@
+tecnicos=('reinaldo','chequerman','queiroz')
